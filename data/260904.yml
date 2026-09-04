@@ -7,7 +7,7 @@ about:
   head: 955802f
   archived: false
   latestVersion: 2.1.0
-  collectedAt: 2026-09-04T19:55:21Z
+  collectedAt: 2026-09-04T20:45:04Z
 timeline:
   created: 2023-03-18
   lastCommit: 2025-11-26
@@ -82,5 +82,38 @@ total:
   openIssue: 5
   commit: 120
 ---
+path: /home/runner/.x-repo/github.com/bloznelis/kbt
+collectedAt: 2026-09-04T20:45:05Z
+loc:
+  Rust:
+    code: 2500
+    comments: 21
+    blanks: 133
+    files: 9
+  Sh:
+    code: 34
+    comments: 11
+    blanks: 15
+    files: 2
+  Toml:
+    code: 18
+    comments: 0
+    blanks: 1
+    files: 1
+  Makefile:
+    code: 15
+    comments: 0
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 32
+    blanks: 15
+    files: 1
+total:
+  code: 2567
+  comments: 64
+  blanks: 170
+  files: 14
 ---
 
