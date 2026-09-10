@@ -1,0 +1,135 @@
+- repo: nix_unstable
+  srcname: kbt
+  visiblename: kbt
+  version: 2.1.0
+  origversion: null
+  status: newest
+  summary: Keyboard tester in terminal
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: parabola
+  subrepo: extra
+  srcname: kbt
+  binname: kbt
+  visiblename: kbt
+  version: 2.1.0
+  origversion: 2.1.0-1
+  status: newest
+  summary: Keyboard tester in terminal
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: kbt
+  visiblename: kbt
+  version: 2.1.0
+  origversion: null
+  status: newest
+  summary: Keyboard tester in terminal
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: kbt
+  visiblename: kbt
+  version: 2.1.0
+  origversion: null
+  status: newest
+  summary: Keyboard tester in terminal
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: arch
+  subrepo: extra
+  srcname: kbt
+  binname: kbt
+  visiblename: kbt
+  version: 2.1.0
+  origversion: 2.1.0-1
+  status: newest
+  summary: Keyboard tester in terminal
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: kbt
+  visiblename: kbt
+  version: 2.1.0
+  origversion: null
+  status: newest
+  summary: Keyboard tester in terminal
+- repo: homebrew
+  srcname: kbt
+  visiblename: kbt
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Keyboard tester in terminal
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: kbt
+  binname: kbt
+  visiblename: kbt
+  version: 2.1.0
+  origversion: 2.1.0-1
+  status: newest
+  summary: Keyboard tester in terminal
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: kbt
+  binname: kbt
+  visiblename: kbt
+  version: 2.1.0
+  origversion: 2.1.0-1
+  status: newest
+  summary: Keyboard tester in terminal
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: kbt
+  binname: kbt
+  visiblename: kbt
+  version: 2.1.0
+  origversion: 2.1.0-1
+  status: newest
+  summary: Keyboard tester in terminal
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: kbt
+  visiblename: kbt
+  version: 2.1.0
+  origversion: null
+  status: newest
+  summary: Keyboard tester in terminal
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: kbt
+  visiblename: kbt
+  version: 2.1.0
+  origversion: null
+  status: newest
+  summary: Keyboard tester in terminal
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: kbt
+  visiblename: kbt
+  version: 2.1.0
+  origversion: null
+  status: newest
+  summary: Keyboard tester in terminal
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - MIT
