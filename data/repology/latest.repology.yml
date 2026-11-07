@@ -23,6 +23,28 @@
   origversion: null
   status: rolling
   summary: Keyboard tester in terminal
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: kbt
+  binname: kbt
+  visiblename: kbt
+  version: 2.1.0
+  origversion: 2.1.0-1
+  status: newest
+  summary: Keyboard tester in terminal
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: kbt
+  binname: kbt
+  visiblename: kbt
+  version: 2.1.0
+  origversion: 2.1.0-1
+  status: newest
+  summary: Keyboard tester in terminal
+  licenses:
+    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: kbt
